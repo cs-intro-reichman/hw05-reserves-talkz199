@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "In",
+            "request": "launch",
+            "mainClass": "In",
+            "projectName": "hw05-reserves-talkz199_48a2cd9d"
+        },
+        {
+            "type": "java",
             "name": "GameOfLife",
             "request": "launch",
             "mainClass": "GameOfLife",
